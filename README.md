@@ -119,8 +119,6 @@ This project uses the following libraries:
 
 [Paper: An Encryption and Decryption Algorithm Based on Random Dynamic Hash and Bits Scrambling](https://ieeexplore.ieee.org/document/9258781)
 
-For any inquiries or suggestions, please contact abhinavbelhekar01@gmail.com or visit [coderabhinav.github.io](http://coderabhinav.github.io).
-
 ## License
 
 This project is licensed under the MIT License.
